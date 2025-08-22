@@ -1,0 +1,33 @@
+# Smart Health Monitoring with AI & IoT
+
+## 📌 Overview
+The **Smart Health Monitoring System** leverages **IoT devices** and **AI (gpt-oss model)** to provide real-time health insights, anomaly detection, and personalized wellness recommendations.  
+It enables continuous monitoring of vital signs, early detection of risks, and remote access for doctors and family members.
+
+---
+
+## 🚀 Features
+- Real-time health data collection (heart rate, SpO₂, BP, sleep patterns).  
+- AI-powered insights using the **gpt-oss model**.  
+- Alerts for anomalies and emergencies.  
+- Personalized lifestyle and wellness suggestions.  
+- Cloud-based storage with secure access.  
+- Multi-user and family health dashboard.  
+
+---
+
+## 🛠️ Tech Stack
+- **IoT Devices:** Arduino / ESP32 / Smartwatch Sensors (C++, MicroPython)  
+- **Backend:** Python (Flask/FastAPI), Node.js  
+- **AI/ML:** Python (TensorFlow, PyTorch, scikit-learn, gpt-oss)  
+- **Frontend:** React.js (web) / Flutter (mobile)  
+- **Database:** Firebase (real-time), PostgreSQL (structured storage)  
+- **Protocols:** MQTT, REST APIs  
+
+---
+
+## ⚙️ Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/smart-health-monitoring.git
+   cd smart-health-monitoring
