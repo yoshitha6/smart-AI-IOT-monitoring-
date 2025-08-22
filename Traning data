@@ -1,0 +1,4 @@
+user_id,heart_rate,spo2,blood_pressure,activity,sleep_hours,condition
+101,85,95,120/80,moderate,6,normal
+102,110,90,145/95,low,5,hypertension
+103,72,98,115/75,high,8,normal
