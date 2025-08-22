@@ -1,0 +1,8 @@
+{
+  "user_id": "101",
+  "heart_rate": 82,
+  "spo2": 96,
+  "blood_pressure": "118/76",
+  "sleep_hours": 7,
+  "steps": 5600
+}
